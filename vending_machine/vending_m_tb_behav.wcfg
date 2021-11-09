@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="vending_m_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="vending_m_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="101000001fs"></ZoomEndTime>
+      <Cursor1Time time="100000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="181"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/vending_m_tb/clk_design" type="logic">
+      <obj_property name="ElementShortName">clk_design</obj_property>
+      <obj_property name="ObjectShortName">clk_design</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/item_select" type="logic">
+      <obj_property name="ElementShortName">item_select</obj_property>
+      <obj_property name="ObjectShortName">item_select</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/coins" type="array">
+      <obj_property name="ElementShortName">coins[1:0]</obj_property>
+      <obj_property name="ObjectShortName">coins[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/change" type="array">
+      <obj_property name="ElementShortName">change[1:0]</obj_property>
+      <obj_property name="ObjectShortName">change[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/display" type="array">
+      <obj_property name="ElementShortName">display[6:0]</obj_property>
+      <obj_property name="ObjectShortName">display[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/segment" type="logic">
+      <obj_property name="ElementShortName">segment</obj_property>
+      <obj_property name="ObjectShortName">segment</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/soft_drink_dispense" type="logic">
+      <obj_property name="ElementShortName">soft_drink_dispense</obj_property>
+      <obj_property name="ObjectShortName">soft_drink_dispense</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/granola_bar_dispense" type="logic">
+      <obj_property name="ElementShortName">granola_bar_dispense</obj_property>
+      <obj_property name="ObjectShortName">granola_bar_dispense</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/VENDING_ENT/present_state" type="other">
+      <obj_property name="ElementShortName">present_state</obj_property>
+      <obj_property name="ObjectShortName">present_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/vending_m_tb/VENDING_ENT/next_state" type="other">
+      <obj_property name="ElementShortName">next_state</obj_property>
+      <obj_property name="ObjectShortName">next_state</obj_property>
+   </wvobject>
+</wave_config>
