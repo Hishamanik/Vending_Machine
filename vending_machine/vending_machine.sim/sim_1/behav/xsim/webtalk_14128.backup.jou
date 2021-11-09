@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Nov  1 01:57:08 2021
+# Process ID: 14128
+# Current directory: F:/ECE410_Lab/Lab2/part2/vending_machine/vending_machine.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/ECE410_Lab/Lab2/part2/vending_machine/vending_machine.sim/sim_1/behav/xsim/xsim.dir/vending_m_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/ECE410_Lab/Lab2/part2/vending_machine/vending_machine.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/ECE410_Lab/Lab2/part2/vending_machine/vending_machine.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/ECE410_Lab/Lab2/part2/vending_machine/vending_machine.sim/sim_1/behav/xsim/xsim.dir/vending_m_tb_behav/webtalk/xsim_webtalk.tcl -notrace
